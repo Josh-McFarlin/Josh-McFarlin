@@ -1,16 +1,27 @@
 ### Hi there 👋
 
-<!--
-**Josh-McFarlin/Josh-McFarlin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Josh, a student at Georgia Tech majoring in Computer Science.
 
-Here are some ideas to get you started:
+🔭 When I'm not working on school, I'm definitely working on [Bits of Good](https://bitsofgood.org) projects!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+Learn More About Me:
+
+[Personal Website](https://mcfarl.in)
+
+[Resume](https://www.dropbox.com/s/xak4fdv0h2ghhhy/JoshuaMcFarlin_Resume.pdf?dl=0)
+
+---
+
+📫 How to reach me:
+
+[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/joshmcfarlin)
+
+[Contact Form](https://mcfarl.in/contact)
+
+---
+
+### :zap: Recent Activity
+
+<!--START_SECTION:activity-->
