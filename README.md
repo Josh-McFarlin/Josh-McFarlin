@@ -1,16 +1,16 @@
-### Hi there 👋
+## Hello 👋
 
 I'm Josh, a student at Georgia Tech majoring in Computer Science.
 
-🔭 When I'm not working on school, I'm definitely working on [Bits of Good](https://bitsofgood.org) projects!
+When I'm not working on school, I'm definitely working on [Bits of Good](https://bitsofgood.org) projects!
 
 ---
 
-Learn More About Me:
+📖 Learn More About Me:
 
-[Personal Website](https://mcfarl.in)
+* [Personal Website](https://mcfarl.in)
 
-[Resume](https://www.dropbox.com/s/xak4fdv0h2ghhhy/JoshuaMcFarlin_Resume.pdf?dl=0)
+* [Resume](https://www.dropbox.com/s/xak4fdv0h2ghhhy/JoshuaMcFarlin_Resume.pdf?dl=0)
 
 ---
 
