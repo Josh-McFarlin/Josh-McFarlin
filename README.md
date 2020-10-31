@@ -25,6 +25,6 @@ When I'm not working on school, I'm definitely working on [Bits of Good](https:/
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#56](https://github.com/GTBitsOfGood/npp/pull/56) in [GTBitsOfGood/npp](https://github.com/GTBitsOfGood/npp)
-2. ❗️ Closed issue [#43](https://github.com/GTBitsOfGood/npp/issues/43) in [GTBitsOfGood/npp](https://github.com/GTBitsOfGood/npp)
+1. 🎉 Merged PR [#60](https://github.com/GTBitsOfGood/npp/pull/60) in [GTBitsOfGood/npp](https://github.com/GTBitsOfGood/npp)
+2. ❗️ Closed issue [#30](https://github.com/GTBitsOfGood/npp/issues/30) in [GTBitsOfGood/npp](https://github.com/GTBitsOfGood/npp)
 <!--END_SECTION:activity-->
