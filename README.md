@@ -38,12 +38,3 @@ You are the white piece. Click a piece to select it and it will turn blue. The g
 [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/joshmcfarlin)
 
 [Contact Form](https://mcfarl.in/contact)
-
----
-
-### :zap: Recent Activity
-
-<!--START_SECTION:activity-->
-1. 💪 Opened PR [#98](https://github.com/GTBitsOfGood/npp/pull/98) in [GTBitsOfGood/npp](https://github.com/GTBitsOfGood/npp)
-2. 🎉 Merged PR [#97](https://github.com/GTBitsOfGood/npp/pull/97) in [GTBitsOfGood/npp](https://github.com/GTBitsOfGood/npp)
-<!--END_SECTION:activity-->
