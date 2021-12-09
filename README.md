@@ -7,6 +7,8 @@ When I'm not working on school, I'm definitely working on [Bits of Good](https:/
 ---
 For fun I made chess using React/Remix that runs in my profile.
 
+Repo: https://github.com/Josh-McFarlin/remix-chess
+
 You are the white piece. Click a piece to select it and it will turn blue. The green squares show where you can move.
 
 |   | A | B | C | D | E | F | G | H |
