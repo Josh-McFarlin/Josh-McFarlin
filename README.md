@@ -4,6 +4,11 @@ I'm Josh, a student at Georgia Tech majoring in Computer Science.
 
 When I'm not working on school, I'm definitely working on [Bits of Good](https://bitsofgood.org) projects!
 
+---
+For fun I made chess using React/Remix that runs in my profile.
+
+You are the white piece. Click a piece to select it and it will turn blue. The green squares show where you can move.
+
 |   | A | B | C | D | E | F | G | H |
 | - | - | - | - | - | - | - | - | - |
 | 8 | [![A8](https://remix-chess.fly.dev/piece/A8?)](https://remix-chess.fly.dev/move/A8) | [![B8](https://remix-chess.fly.dev/piece/B8?)](https://remix-chess.fly.dev/move/B8) | [![C8](https://remix-chess.fly.dev/piece/C8?)](https://remix-chess.fly.dev/move/C8) | [![D8](https://remix-chess.fly.dev/piece/D8?)](https://remix-chess.fly.dev/move/D8) | [![E8](https://remix-chess.fly.dev/piece/E8?)](https://remix-chess.fly.dev/move/E8) | [![F8](https://remix-chess.fly.dev/piece/F8?)](https://remix-chess.fly.dev/move/F8) | [![G8](https://remix-chess.fly.dev/piece/G8?)](https://remix-chess.fly.dev/move/G8) | [![H8](https://remix-chess.fly.dev/piece/H8?)](https://remix-chess.fly.dev/move/H8) |
