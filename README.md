@@ -2,8 +2,6 @@
 
 I'm Josh, a student at Georgia Tech majoring in Computer Science.
 
-When I'm not working on school, I'm definitely working on [Bits of Good](https://bitsofgood.org) projects!
-
 ---
 For fun I made chess using React/Remix that runs in my profile.
 
