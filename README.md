@@ -1,6 +1,6 @@
 ## Hello 👋
 
-I'm Josh, a student at Georgia Tech majoring in Computer Science.
+I'm Josh, I like working on different projects!
 
 ---
 For fun I made chess using React/Remix that runs in my profile.
