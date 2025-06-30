@@ -28,12 +28,8 @@ You are the white piece. Click a piece to select it and it will turn blue. The g
 
 * [Personal Website](https://mcfarl.in)
 
-* [Resume](https://www.dropbox.com/s/xak4fdv0h2ghhhy/JoshuaMcFarlin_Resume.pdf?dl=0)
-
 ---
 
 📫 How to reach me:
 
 [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/joshmcfarlin)
-
-[Contact Form](https://mcfarl.in/contact)
